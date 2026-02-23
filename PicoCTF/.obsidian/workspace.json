@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea1_GeneralSkills/40-ASCII Numbers.md",
+                "file": "PicoCTF Web - 1/02-where are the robots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "40-ASCII Numbers"
+              "title": "02-where are the robots"
             }
           }
         ]
@@ -185,6 +185,16 @@
   },
   "active": "2a62f400f4e358d3",
   "lastOpenFiles": [
+    "PicoCTF Web - 1/01-Insp3ct0r.md",
+    "PicoCTF Web - 1/03-logon.md",
+    "PicoCTF Web - 1/06-Client-side-again.md",
+    "PicoCTF Web - 1/05-picobrowser.md",
+    "PicoCTF Web - 1/04-dont-use-client-side.md",
+    "PicoCTF Web - 1/02-where are the robots.md",
+    "Tarea1_GeneralSkills/32-chrono.md",
+    "Tarea1_GeneralSkills/31-permissions.md",
+    "Tarea1_GeneralSkills/40-ASCII Numbers.md",
+    "PicoCTF Web - 1",
     "Tarea1_GeneralSkills/39-binhexa.md",
     "Tarea1_GeneralSkills/38-binary search.md",
     "Tarea1_GeneralSkills/37-collaborative development.md",
@@ -192,9 +202,6 @@
     "Tarea1_GeneralSkills/35-time machine.md",
     "Tarea1_GeneralSkills/34-committee issue.md",
     "Tarea1_GeneralSkills/33-special.md",
-    "Tarea1_GeneralSkills/32-chrono.md",
-    "Tarea1_GeneralSkills/40-ASCII Numbers.md",
-    "Tarea1_GeneralSkills/31-permissions.md",
     "03-General Skills/30-Serpentine.md",
     "Tarea1_GeneralSkills",
     "03-General Skills/29-PW Crack 3.md",
@@ -206,13 +213,7 @@
     "03-General Skills/25-fixme1.py.md",
     "03-General Skills/21-Super SSH.md",
     "03-General Skills/24-convertme.py.md",
-    "02-General Skills/20-First Find.md",
-    "02-General Skills/11-Based.md",
-    "02-General Skills/19-Big zip.md",
     "03-General Skills",
-    "02-General Skills/18-repetitions.md",
-    "02-General Skills/17-Magikarp Ground Mission.md",
-    "02-General Skills/16-Tab, Tab, Attack.md",
     "02-General Skills",
     "Sin título.base"
   ]
