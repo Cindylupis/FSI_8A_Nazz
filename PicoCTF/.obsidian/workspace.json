@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen_1_Web/08-SSTI2.md",
+                "file": "Examen_1_General Skills/03- Rust fixme 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-SSTI2"
+              "title": "03- Rust fixme 1"
             }
           }
         ]
@@ -185,10 +185,21 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
+    "Examen_1_General Skills/02- HashingJobApp.md",
+    "Examen_1_General Skills/01- FANTASY CTF.md",
+    "Examen_1_General Skills/10-.md",
+    "Examen_1_General Skills/09-.md",
+    "Examen_1_General Skills/08-.md",
+    "Examen_1_General Skills/07-.md",
+    "Examen_1_General Skills/06-.md",
+    "Examen_1_General Skills/05-.md",
+    "Examen_1_General Skills/04-.md",
+    "Examen_1_General Skills/03- Rust fixme 1.md",
+    "Examen_1_Web/08-SSTI2.md",
+    "Examen_1_General Skills",
     "Examen_1_Web/07- SQL Direct.md",
     "Examen_1_Web/06- Java Code Analysis.md",
     "Examen_1_Web/05- findme.md",
-    "Examen_1_Web/08-SSTI2.md",
     "Examen_1_Web/04- SSTI1.md",
     "PicoCTF Web - 4/04- Most Cookies.md",
     "PicoCTF Web - 4/03- Trickster.md",
@@ -202,17 +213,7 @@
     "PicoCTF Forensic-2/03- c0rrupt.md",
     "Examen_1_Web",
     "PicoCTF Forensic-2/05- shark on wire 2.md",
-    "PicoCTF Forensic-2/04- like1000.md",
-    "PicoCTF Forensic-2/01- m00nwalk.md",
-    "PicoCTF Forensic-2/02- WhitePages.md",
-    "PicoCTF Forensic-3/04- tunn3l_v1s10n.md",
     "bandera_revelada.bmp",
-    "PicoCTF Forensic-3/03- Matryoshka doll.md",
-    "PicoCTF Forensic-3/02- Webnet1.md",
-    "PicoCTF Forensic-3/01- WebNet0.md",
-    "PicoCTF Forensic-3/05- MacroHard WeakEdge.md",
-    "PicoCTF Web - 1/01-Insp3ct0r.md",
-    "Curso/11- Undo.md",
     "PicoCTF Forensic-3",
     "Curso",
     "PicoCTF Forensic-2",
@@ -220,7 +221,6 @@
     "Tarea2_Web",
     "Sin título.base",
     "PicoCTF Web - 4",
-    "PicoCTF Web - 3",
-    "PicoCTF Web - 2"
+    "PicoCTF Web - 3"
   ]
 }
