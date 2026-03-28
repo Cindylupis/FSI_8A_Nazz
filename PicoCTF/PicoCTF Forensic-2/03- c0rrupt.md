@@ -11,8 +11,4 @@ picoCTF{h1d1ng_1n_th3_b1t5}
 ```
 
 #### NOTAS
-### El Concepto: "Magic Bytes"
-
-Todos los archivos (PNG, JPG, PDF) comienzan con unos bytes específicos llamados **Magic Bytes**. Si esos bytes se alteran, tu computadora no sabe qué programa usar para abrir el archivo y dice que está dañado.
-
-Todo archivo **PNG** debe comenzar con 8 bytes específicos. Si estos están mal, ningún programa podrá abrirlo.
+En la estructura de un PNG, después del CRC de un bloque (en este caso el `pHYs`), los siguientes 4 bytes **deben ser la longitud (Length)** del siguiente bloque. Ese valor `AA AA FF A5` es un número gigantesco (más de 2.8 gigabytes), por eso `pngcheck` te dice **"too large"**.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF Forensic-3/04- tunn3l_v1s10n.md",
+                "file": "Examen_1_Web/08-SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04- tunn3l_v1s10n"
+              "title": "08-SSTI2"
             }
           }
         ]
@@ -185,41 +185,42 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
+    "Examen_1_Web/07- SQL Direct.md",
+    "Examen_1_Web/06- Java Code Analysis.md",
+    "Examen_1_Web/05- findme.md",
+    "Examen_1_Web/08-SSTI2.md",
+    "Examen_1_Web/04- SSTI1.md",
+    "PicoCTF Web - 4/04- Most Cookies.md",
+    "PicoCTF Web - 4/03- Trickster.md",
+    "PicoCTF Web - 4/02- SOAP.md",
+    "Tarea1_GeneralSkills/32-chrono.md",
+    "Tarea1_GeneralSkills/31-permissions.md",
+    "Examen_1_Web/03- head-dump.md",
+    "Examen_1_Web/02- Cookie Monster Secret Recipe.md",
+    "Examen_1_Web/01- Bookmarklet.md",
+    "Tarea2_Web/02- Inspect HTML.md",
+    "PicoCTF Forensic-2/03- c0rrupt.md",
+    "Examen_1_Web",
+    "PicoCTF Forensic-2/05- shark on wire 2.md",
+    "PicoCTF Forensic-2/04- like1000.md",
+    "PicoCTF Forensic-2/01- m00nwalk.md",
+    "PicoCTF Forensic-2/02- WhitePages.md",
+    "PicoCTF Forensic-3/04- tunn3l_v1s10n.md",
     "bandera_revelada.bmp",
     "PicoCTF Forensic-3/03- Matryoshka doll.md",
     "PicoCTF Forensic-3/02- Webnet1.md",
     "PicoCTF Forensic-3/01- WebNet0.md",
-    "PicoCTF Forensic-3/04- tunn3l_v1s10n.md",
     "PicoCTF Forensic-3/05- MacroHard WeakEdge.md",
     "PicoCTF Web - 1/01-Insp3ct0r.md",
     "Curso/11- Undo.md",
     "PicoCTF Forensic-3",
-    "Curso/10- Timeline 0.md",
-    "Curso/09- SUDO MAKE ME A SANDWICH.md",
-    "Curso/08- Printer Shares.md",
-    "Curso/07- Piece by Piece.md",
-    "Curso/06- Old Sessions.md",
-    "Curso/04- bytemancy 0.md",
-    "Curso/03- MY GIT.md",
-    "Curso/02- Gatekeeper.md",
-    "Curso/01- Binary Digits.md",
-    "Curso/05- Quizploit.md",
-    "PicoCTF Forensic-2/01- m00nwalk.md",
-    "PicoCTF Forensic-2/03- c0rrupt.md",
     "Curso",
-    "PicoCTF Forensic-2/02- WhitePages.md",
-    "PicoCTF Forensic-2/05- shark on wire 2.md",
-    "PicoCTF Forensic-2/04- like1000.md",
-    "PicoCTF Forensic-1/05- What Lies Within.md",
     "PicoCTF Forensic-2",
-    "PicoCTF Forensic-1/04- extensions.md",
-    "PicoCTF Forensic-1/03- shark on wire 1.md",
     "PicoCTF Forensic-1",
     "Tarea2_Web",
     "Sin título.base",
     "PicoCTF Web - 4",
     "PicoCTF Web - 3",
-    "PicoCTF Web - 2",
-    "PicoCTF Web - 1"
+    "PicoCTF Web - 2"
   ]
 }
