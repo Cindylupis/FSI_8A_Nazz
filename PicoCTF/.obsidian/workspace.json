@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen_1_General Skills/03- Rust fixme 1.md",
+                "file": "PicoCTF Crypto - 1/08- interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03- Rust fixme 1"
+              "title": "08- interencdec"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-General Skills/10-Nice netcat.md",
+                "file": "PicoCTF Crypto - 1/08- interencdec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 10-Nice netcat"
+              "title": "Enlaces entrantes de 08- interencdec"
             }
           },
           {
@@ -185,6 +185,17 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
+    "PicoCTF Crypto - 1/07- waves over lambda.md",
+    "PicoCTF Crypto - 1/06- Tapping.md",
+    "PicoCTF Crypto - 1/05- la cifra de.md",
+    "PicoCTF Crypto - 1/04- Easy 1.md",
+    "PicoCTF Crypto - 1/03- Caesar.md",
+    "PicoCTF Crypto - 1/02- 13.md",
+    "PicoCTF Crypto - 1/08- interencdec.md",
+    "PicoCTF Crypto - 1/01- The numbers.md",
+    "Examen_1_Web/04- SSTI1.md",
+    "Examen_1_General Skills/03- Rust fixme 1.md",
+    "PicoCTF Crypto - 1",
     "Examen_1_General Skills/02- HashingJobApp.md",
     "Examen_1_General Skills/01- FANTASY CTF.md",
     "Examen_1_General Skills/10-.md",
@@ -194,25 +205,15 @@
     "Examen_1_General Skills/06-.md",
     "Examen_1_General Skills/05-.md",
     "Examen_1_General Skills/04-.md",
-    "Examen_1_General Skills/03- Rust fixme 1.md",
     "Examen_1_Web/08-SSTI2.md",
     "Examen_1_General Skills",
     "Examen_1_Web/07- SQL Direct.md",
     "Examen_1_Web/06- Java Code Analysis.md",
     "Examen_1_Web/05- findme.md",
-    "Examen_1_Web/04- SSTI1.md",
     "PicoCTF Web - 4/04- Most Cookies.md",
     "PicoCTF Web - 4/03- Trickster.md",
     "PicoCTF Web - 4/02- SOAP.md",
-    "Tarea1_GeneralSkills/32-chrono.md",
-    "Tarea1_GeneralSkills/31-permissions.md",
-    "Examen_1_Web/03- head-dump.md",
-    "Examen_1_Web/02- Cookie Monster Secret Recipe.md",
-    "Examen_1_Web/01- Bookmarklet.md",
-    "Tarea2_Web/02- Inspect HTML.md",
-    "PicoCTF Forensic-2/03- c0rrupt.md",
     "Examen_1_Web",
-    "PicoCTF Forensic-2/05- shark on wire 2.md",
     "bandera_revelada.bmp",
     "PicoCTF Forensic-3",
     "Curso",
@@ -220,7 +221,6 @@
     "PicoCTF Forensic-1",
     "Tarea2_Web",
     "Sin título.base",
-    "PicoCTF Web - 4",
-    "PicoCTF Web - 3"
+    "PicoCTF Web - 4"
   ]
 }
