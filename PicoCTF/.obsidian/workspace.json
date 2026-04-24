@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
+                "file": "PicoCTF Crypto - 3/04- b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- rsa pop quiz (exp.py)"
+              "title": "04- b00tl3gRSA3"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "941d75d2eadcb350",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
+                "file": "PicoCTF Crypto - 3/04- b00tl3gRSA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 01- rsa pop quiz (exp.py)"
+              "title": "Enlaces entrantes de 04- b00tl3gRSA3"
             }
           },
           {
@@ -186,8 +185,13 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
-    "PicoCTF Crypto - 1/08- interencdec.md",
+    "PicoCTF Crypto - 3/03- b00tl3gRSA2.md",
+    "PicoCTF Crypto - 3/02- Mind your Ps and Qs.md",
+    "PicoCTF Crypto - 3/01- Mini RSA.md",
+    "PicoCTF Crypto - 3/04- b00tl3gRSA3.md",
     "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
+    "PicoCTF Crypto - 3",
+    "PicoCTF Crypto - 1/08- interencdec.md",
     "PicoCTF Crypto - 2",
     "PicoCTF Crypto - 1/07- waves over lambda.md",
     "PicoCTF Crypto - 1/06- Tapping.md",
@@ -211,17 +215,12 @@
     "Examen_1_Web/08-SSTI2.md",
     "Examen_1_General Skills",
     "Examen_1_Web/07- SQL Direct.md",
-    "Examen_1_Web/06- Java Code Analysis.md",
-    "Examen_1_Web/05- findme.md",
-    "PicoCTF Web - 4/04- Most Cookies.md",
-    "PicoCTF Web - 4/03- Trickster.md",
     "Examen_1_Web",
     "bandera_revelada.bmp",
     "PicoCTF Forensic-3",
     "Curso",
     "PicoCTF Forensic-2",
     "PicoCTF Forensic-1",
-    "Tarea2_Web",
-    "Sin título.base"
+    "Tarea2_Web"
   ]
 }
