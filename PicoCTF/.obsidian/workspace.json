@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF Crypto - 3/04- b00tl3gRSA3.md",
+                "file": "PIcoCTF Reversing - 3/03- asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04- b00tl3gRSA3"
+              "title": "03- asm3"
             }
           }
         ]
@@ -185,11 +185,19 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
+    "PIcoCTF Reversing - 3/02- asm2.md",
+    "PIcoCTF Reversing - 3/01- asm1.md",
+    "PIcoCTF Reversing - 3/03- asm3.md",
+    "PicoCTF Web - 4/04- Most Cookies.md",
+    "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
     "PicoCTF Crypto - 3/03- b00tl3gRSA2.md",
-    "PicoCTF Crypto - 3/02- Mind your Ps and Qs.md",
     "PicoCTF Crypto - 3/01- Mini RSA.md",
     "PicoCTF Crypto - 3/04- b00tl3gRSA3.md",
-    "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
+    "Sin título.base",
+    "PIcoCTF Reversing - 3",
+    "bandera_revelada.bmp",
+    "Sin título.md",
+    "PicoCTF Crypto - 3/02- Mind your Ps and Qs.md",
     "PicoCTF Crypto - 3",
     "PicoCTF Crypto - 1/08- interencdec.md",
     "PicoCTF Crypto - 2",
@@ -209,18 +217,10 @@
     "Examen_1_General Skills/09-.md",
     "Examen_1_General Skills/08-.md",
     "Examen_1_General Skills/07-.md",
-    "Examen_1_General Skills/06-.md",
-    "Examen_1_General Skills/05-.md",
-    "Examen_1_General Skills/04-.md",
-    "Examen_1_Web/08-SSTI2.md",
     "Examen_1_General Skills",
-    "Examen_1_Web/07- SQL Direct.md",
     "Examen_1_Web",
-    "bandera_revelada.bmp",
     "PicoCTF Forensic-3",
     "Curso",
-    "PicoCTF Forensic-2",
-    "PicoCTF Forensic-1",
-    "Tarea2_Web"
+    "PicoCTF Forensic-2"
   ]
 }
