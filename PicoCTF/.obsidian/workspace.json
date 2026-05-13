@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIcoCTF Reversing - 3/03- asm3.md",
+                "file": "PicoCTF Reversing - 2/01- Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03- asm3"
+              "title": "01- Safe Opener 2"
             }
           }
         ]
@@ -185,16 +185,23 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
-    "PIcoCTF Reversing - 3/02- asm2.md",
-    "PIcoCTF Reversing - 3/01- asm1.md",
-    "PIcoCTF Reversing - 3/03- asm3.md",
+    "PicoCTF Reversing - 2/02- timer.md",
+    "PicoCTF Reversing - 2/05- Picker III.md",
+    "PicoCTF Reversing - 2/04- Picker II.md",
+    "PicoCTF Reversing - 2/03- Picker I.md",
+    "PicoCTF Reversing - 2/01- Safe Opener 2.md",
+    "PicoCTF Reversing - 2/06- Picker IV.md",
+    "PicoCTF Reversing - 3/01- asm1.md",
+    "PicoCTF Reversing - 3/03- asm3.md",
+    "PicoCTF Reversing - 2",
+    "PicoCTF Reversing - 3/02- asm2.md",
     "PicoCTF Web - 4/04- Most Cookies.md",
     "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
     "PicoCTF Crypto - 3/03- b00tl3gRSA2.md",
     "PicoCTF Crypto - 3/01- Mini RSA.md",
     "PicoCTF Crypto - 3/04- b00tl3gRSA3.md",
     "Sin título.base",
-    "PIcoCTF Reversing - 3",
+    "PicoCTF Reversing - 3",
     "bandera_revelada.bmp",
     "Sin título.md",
     "PicoCTF Crypto - 3/02- Mind your Ps and Qs.md",
@@ -211,16 +218,9 @@
     "Examen_1_Web/04- SSTI1.md",
     "Examen_1_General Skills/03- Rust fixme 1.md",
     "PicoCTF Crypto - 1",
-    "Examen_1_General Skills/02- HashingJobApp.md",
-    "Examen_1_General Skills/01- FANTASY CTF.md",
-    "Examen_1_General Skills/10-.md",
-    "Examen_1_General Skills/09-.md",
-    "Examen_1_General Skills/08-.md",
-    "Examen_1_General Skills/07-.md",
     "Examen_1_General Skills",
     "Examen_1_Web",
     "PicoCTF Forensic-3",
-    "Curso",
-    "PicoCTF Forensic-2"
+    "Curso"
   ]
 }
