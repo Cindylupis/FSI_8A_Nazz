@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea4_Crypto/10- Vigenere.md",
+                "file": "Examen_1_General Skills/10- Specialer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- Vigenere"
+              "title": "10- Specialer"
             }
           }
         ]
@@ -185,6 +185,23 @@
   },
   "active": "e60fc16079868810",
   "lastOpenFiles": [
+    "Examen_1_General Skills/09- SansAlpha.md",
+    "Examen_1_General Skills/08- Rust fixme 3.md",
+    "Examen_1_General Skills/07- Rust fixme 2.md",
+    "Examen_1_General Skills/06- Python Wrangling.md",
+    "Examen_1_General Skills/05- flag_shop.md",
+    "Examen_1_General Skills/04- dont-you-love-banners.md",
+    "Examen_1_Web/06- Java Code Analysis.md",
+    "Pasted image 20260515233503.png",
+    "Pasted image 20260515233451.png",
+    "Pasted image 20260515233437.png",
+    "Pasted image 20260515233202.png",
+    "Pasted image 20260515233155.png",
+    "Pasted image 20260515233142.png",
+    "Pasted image 20260515233129.png",
+    "Examen_1_Web/08-SSTI2.md",
+    "Tarea4_Crypto/10- Vigenere.md",
+    "Examen_1_Web/09- SSTI2.md",
     "Tarea4_Crypto/09- substitution2.md",
     "Tarea4_Crypto/08- substitution1.md",
     "Tarea4_Crypto/07- substitution0.md",
@@ -194,7 +211,6 @@
     "Tarea4_Crypto/05- morse-code.md",
     "Tarea4_Crypto/04- hashcrack.md",
     "Tarea4_Crypto/03- EVEN RSA CAN BE BROKEN.md",
-    "Tarea4_Crypto/10- Vigenere.md",
     "PicoCTF Reversing - 1/03- vault-door-3.md",
     "PicoCTF Reversing - 1/02- vault-door-1.md",
     "PicoCTF Reversing - 1/01- vault-door-training.md",
@@ -203,17 +219,8 @@
     "PicoCTF Reversing - 1/04- vault-door-4.md",
     "PicoCTF Reversing - 2/01- Safe Opener 2.md",
     "PicoCTF Reversing - 3/02- asm2.md",
-    "PicoCTF Reversing - 3/01- asm1.md",
     "PicoCTF Reversing - 1",
-    "PicoCTF Reversing - 2/02- timer.md",
-    "PicoCTF Reversing - 2/05- Picker III.md",
-    "PicoCTF Reversing - 2/04- Picker II.md",
-    "PicoCTF Reversing - 2/03- Picker I.md",
-    "PicoCTF Reversing - 2/06- Picker IV.md",
-    "PicoCTF Reversing - 3/03- asm3.md",
     "PicoCTF Reversing - 2",
-    "PicoCTF Web - 4/04- Most Cookies.md",
-    "PicoCTF Crypto - 2/01- rsa pop quiz (exp.py).md",
     "Sin título.base",
     "PicoCTF Reversing - 3",
     "bandera_revelada.bmp",
